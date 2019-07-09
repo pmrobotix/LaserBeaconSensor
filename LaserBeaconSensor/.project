@@ -44,12 +44,12 @@
 		<link>
 			<name>libraries/LaserBeaconSensorCommon</name>
 			<type>2</type>
-			<locationURI>WORKSPACE_LOC/LaserBeaconSensorCommon</locationURI>
+			<location>/home/pmx/git/LaserBeaconSensor/LaserBeaconSensorCommon</location>
 		</link>
 		<link>
 			<name>libraries/SoftI2CMaster-2.1</name>
 			<type>2</type>
-			<locationURI>WORKSPACE_LOC/LaserBeaconSensorExtLibs/SoftI2CMaster-2.1</locationURI>
+			<location>/home/pmx/git/LaserBeaconSensor/LaserBeaconSensorExtLibs/SoftI2CMaster-2.1</location>
 		</link>
 		<link>
 			<name>libraries/Wire</name>

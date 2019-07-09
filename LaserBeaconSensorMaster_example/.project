@@ -44,7 +44,7 @@
 		<link>
 			<name>libraries/LaserBeaconSensorCommon</name>
 			<type>2</type>
-			<locationURI>WORKSPACE_LOC/LaserBeaconSensorCommon</locationURI>
+			<location>/home/pmx/git/LaserBeaconSensor/LaserBeaconSensorCommon</location>
 		</link>
 		<link>
 			<name>libraries/Wire</name>
